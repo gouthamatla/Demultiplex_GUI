@@ -1,4 +1,4 @@
-This is a GUI for demultiplexing the illumina data.
+This is a GUI wrapper for demultiplexing the illumina data using Casava 1.8 written in Jython.
 
 This Program requires:
 
